@@ -8,7 +8,7 @@ c. padding
 
 ``` answer d. border ```
 
-``` answer e. margin ````
+``` answer e. margin ```
 
 
 ---
@@ -120,10 +120,9 @@ d. clear: right on the image
 #### 7. What CSS property can be used to place elements below other elements that
 have been floated to either the right or left?
 
-````
-answer a. clear: left
+```answer a. clear: left```
 
-answer b. clear: right```
+```answer b. clear: right```
 
 c. float: all
 
