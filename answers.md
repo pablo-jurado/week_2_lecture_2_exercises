@@ -6,10 +6,10 @@ b. height
 
 c. padding
 
-``` answer d. border
+``` answer d. border ```
 
-    answer e. margin
-```
+``` answer e. margin ````
+
 
 ---
 
@@ -29,7 +29,7 @@ b. 2px + 10px + 421px + 10px + 2px
 
 c. 10px + 421px + 20px + 2px + 10px
 
-``` answer d. 2px + 10px + 421px + 10px + 2px + 10px```
+``` answer d. 2px + 10px + 421px + 10px + 2px + 10px ```
 
 e. 2px + 20px + 421px + 20px + 2px + 20px
 
